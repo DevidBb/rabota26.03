@@ -24,7 +24,10 @@
     <Compile Include="rabota26.03.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="eye.ico" />
+    <Content Include="eyyee.png" />
+    <Content Include="glaz.png" />
+    <Content Include="ilem.png" />
+    <Content Include="silmm.png" />
     <Content Include="scary.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
